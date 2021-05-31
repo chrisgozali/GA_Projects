@@ -6,7 +6,7 @@ The College Entrance Examination Board (or "College Board") was founded in 1899 
 
 The American College Testing (ACT) program was created in 1959. Its founders saw a need for a more widely used college testing system and one that measures academic preparation. At this point, the use of the SATs was mainly in northeastern US and not widespread enough. The ACTs included testing for English, Math, Natural Sciences as well as Social Studies, allowing for academic placement in addition to admissions.The ACTs eventually became a close competitor to the SATs, with the number of students taking the ACTs exceeding the number of students taking the SATs in 2010. ACT tests administered continued to rise sharply while SAT testing plateaued. This [chart:](https://www.erikthered.com/tutor/historical-sat-act-test-takers-both.pdf) shows the historical trends regarding the number of test takers for both tests.
 
-With these tests being the two largest for standardized testing, most students would opt to pick one over the other. In 2013, the SATs were redesigned to better suit the needs of prospective students and colleges. These changes would hopefully encourage students to pick the SATs as their college entrance test of choice.
+With these tests being the two largest for standardized testing, most students would opt to pick one over the other. In 2016, the SATs were redesigned to better suit the needs of prospective students and colleges. These changes would hopefully encourage students to pick the SATs as their college entrance test of choice.
 
 [Source: A (Mostly) Brief History Of The SAT And ACT Tests](https://www.erikthered.com/tutor/sat-act-history.html#y2011)
 
