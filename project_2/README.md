@@ -117,7 +117,6 @@ The primary stakeholders of this analyses is the team in charge of "house hunter
 | age                      | int64    | Age of property since original construction date                                         |
 | since_reno               | int64    | Number of years since last remodeled                                                     |
 | tot_baths                | float64  | Total number of bathrooms including basement bathrooms                                   |
-| ms_new                   | int64    | Binary feature, 1 indicating houses built in newer styles                                |
 | neighbor_h               | int64    | Binary feature, 1 indicating that the property is located in an upper class neighborhood |
 | neighbor_l               | int64    | Binary feature, 1 indicating that the property is located in a lower class neighborhood  |
 | garage_type_a            | int64    | Binary feature, 1 indicating that the garage is attached or built in to the house.       |
