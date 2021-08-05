@@ -9,13 +9,13 @@
 Kennel clubs are organizations that operate nationally to to keep track of dog pedigrees. Additionally, they organize dog shows and competitions. The various kennel clubs also categorize each breed into breed groups based on their general functionality and appearance. It is important to note that each kennel club differs in the methodology used for categorizing dog breeds.
 
 ### Problem statement
-As an aspiring data scientist new to computer vision, I have planned this project out of personal motivations. Combining my own interest in dogs and machine-learning, I aim to build a model that can categorize dogs by breed. To train the model, I used the Stanford Dogs dataset contains over 20,000 images of 120 different dog breeds. For model evaluation, I included a separate dataset from kaggle with 55 different dog breeds.
+As an aspiring data scientist new to computer vision, I have planned this project out of personal motivations. Combining my own interest in dogs and machine-learning, I aim to build a model that can categorize dogs by breed. To train the model, I used the Stanford Dogs dataset contains over 20,000 images of 120 different dog breeds. For model evaluation, I included a separate dataset from kaggle with 55 different dog breeds. (The original dataset contained 70 dogs. Only breeds that were in the stanford dataset were used)
 
 #### Summary of Datasets
 | Dataset | Source | Purpose | Size | Classes |
 |--|--|--|--|--|
-| Stanford Dogs | Kaggle |Training|20,580|120|
-|55 Dogs| Kaggle | Evaluation|550|55|
+| [Stanford Dogs](https://www.kaggle.com/jessicali9530/stanford-dogs-dataset) | Kaggle |Training|20,580|120|
+|[55 Dogs](https://www.kaggle.com/gpiosenka/70-dog-breedsimage-data-set)| Kaggle | Evaluation|550|55|
 |Designer Dogs|Internet|Prediction|20|10|
 
 
