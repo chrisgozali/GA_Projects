@@ -31,11 +31,11 @@ I used transfer-learning with EfficientNet-B7 as a feature extractor to construc
 
 | Model | Train Acc |Val Acc|
 |--|--|--|
-| Dog Group Classifier | 92.0% |82.8%|
-|Dog Breed Classifier|80.0%|84.0%|
+| Dog Group Classifier | 92.0% |82.5%|
+|Dog Breed Classifier|79.1%|84.0%|
 
 **Baseline Accuracy for Dog Groups**: 10.26%
-**Accuracy on unseen data**: 92.0%
+**Accuracy on unseen data**: 92.5%
 
 #### Conclusions
 
